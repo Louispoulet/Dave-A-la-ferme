@@ -2,7 +2,7 @@
 
 
 
-//J'ai mis un commentaire ici
+//Test 2
 int main()
 {
     sf::RenderWindow window(sf::VideoMode(200, 200), "SFML works!");
